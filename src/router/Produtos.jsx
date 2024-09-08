@@ -40,7 +40,7 @@ const productsData = [
     {
         id: 6,
         name: 'Chuteira de Futebol Viralto II Kipsta',
-        description: '★ 4.3/5(42)',
+        description: '★ 4.3/5(142)',
         price: 'R$ 449,99',
         image: 'https://decathlonstore.vtexassets.com/unsafe/628x628/center/middle/https%3A%2F%2Fdecathlonpro.vtexassets.com%2Farquivos%2Fids%2F4988429%2Fshoes-viralto-iii-mg-ss-uk-105---eu-45-411.jpg%3Fv%3D637732067597130000',
     },
