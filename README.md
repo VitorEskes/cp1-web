@@ -13,6 +13,7 @@
 
 - 📦 Catálogo de produtos esportivos com opções de compra.
 - 📱 Responsividade, garantindo uma boa experiência em diferentes dispositivos
+
 ## ⚙️ Instalação
 
 1. Clone este repositório:
