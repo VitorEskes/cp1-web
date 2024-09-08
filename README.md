@@ -1,8 +1,20 @@
-# React + Vite
+# SynthicaSports
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SynthicaSports** é um projeto de site de e-commerce focado na venda de produtos esportivos, desenvolvido para a disciplina de Engenharia de Software. O site foi construído utilizando **React** com **Vite** para um ambiente de desenvolvimento ágil, utilizando **JavaScript**.
 
-Currently, two official plugins are available:
+## 🛠 Tecnologias Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca JavaScript para construção de interfaces de usuário dinâmicas.
+- **Vite**: Ferramenta de build rápida para desenvolvimento eficiente.
+- **JavaScript**: Linguagem de programação usada na implementação da lógica do site.
+- **CSS**: Utilizado para estilização e layout do site.
+
+## 🚀 Funcionalidades
+
+- 📦 Catálogo de produtos esportivos com opções de compra.
+- 📱 Responsividade, garantindo uma boa experiência em diferentes dispositivos
+## ⚙️ Instalação
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/VitorEskes/cp1-web.git
