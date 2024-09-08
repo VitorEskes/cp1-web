@@ -55,7 +55,7 @@ const productsData = [
         id: 8,
         name: 'Tênis de Corrida Ultraboost 23 Adidas',
         description: '★ 4.7/5(2184)',
-        price: 'R$ 179,99',
+        price: 'R$ 799,99',
         image: 'https://decathlonstore.vtexassets.com/unsafe/628x628/center/middle/https%3A%2F%2Fdecathlonpro.vtexassets.com%2Farquivos%2Fids%2F117345647%2F-tn-adidas-ultraboost-light-uk-7-eu41-unica-39-br1.jpg%3Fv%3D638455160870970000',
     }
 ];
