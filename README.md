@@ -24,7 +24,7 @@
 - **GitHub**: https://github.com/VitorEskes/cp1-web
 - **LinkedIn**:  https://www.linkedin.com/feed/update/urn:li:activity:7238368055926374400/
 
-## 🪢 Equipe 
+## 🤝🏻 Equipe 
 - **Vitor Eskes**: https://www.linkedin.com/in/vitor-eskes-2727bb2b6/
 - **Nathan Craveiro**: https://www.linkedin.com/in/nathan-amin-6900462b6/
 - **Gabriel Matias**: https://www.linkedin.com/in/gabriel-matias-simoes-5a55562b7/
