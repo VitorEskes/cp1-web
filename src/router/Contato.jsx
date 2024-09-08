@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import '../CSS/Contato.css';
-import yourImage from '../assets/futebol.png'; // Substitua pelo caminho da sua imagem
+import yourImage from '../assets/futebol.png'; 
 
 const Contact = () => {
     const [formData, setFormData] = useState({
