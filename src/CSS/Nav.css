@@ -1,0 +1,45 @@
+.header {
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 10%;
+    background: #E3E3E3;   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: rgb(70, 68, 68);
+}
+
+.imglogo {
+    width: 50px;
+    margin-right: 10px; 
+}
+
+.logo span {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.link {
+    position: relative;
+    font-size: 18px;
+    color: black;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.link:hover {
+    color: rgb(255, 255, 255);
+}
+
+.highlight {
+    color: #8d8d8d;
+}

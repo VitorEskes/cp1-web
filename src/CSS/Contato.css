@@ -1,0 +1,80 @@
+.sectionContato {
+    width: 100%;
+    height: 87.4vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E3E3E3;
+    position: relative; 
+}
+
+.message-container {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+    width: 100%; 
+    padding: 10px;
+}
+
+.message-container p {
+    font-size: 20px;
+    color: #333;
+    margin: 0; 
+}
+
+.contact-container {
+    width: 600px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-form label {
+    font-size: 18px;
+    margin-bottom: 8px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    font-size: 16px;
+    padding: 10px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.contact-form textarea {
+    height: 150px;
+    resize: vertical;
+}
+
+.contact-form button {
+    font-size: 16px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #444444;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #202429;
+}
+
+.fixed-image {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    width: 500px; /* Ajuste o tamanho conforme necessário */
+    height: auto; /* Mantém a proporção da imagem */
+    z-index: 10; /* Garante que a imagem esteja sobre outros elementos */
+}

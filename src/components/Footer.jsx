@@ -1,11 +1,12 @@
-
+import React from 'react';
+import "../CSS/Footer.css";
 
 const Footer = ()=>{
 
     return(
-        <>
-            <h3>Footer</h3>
-        </>
+        <div className='divFooter'>
+            <h4>© 2024 SynthicaSports Todos os direitos reservados.</h4>
+        </div>
     )
 }
 

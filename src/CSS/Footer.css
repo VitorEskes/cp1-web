@@ -1,0 +1,16 @@
+
+
+.divFooter{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-color: rgb(26, 26, 26);
+    height: 40px;
+    
+}
+
+h4{
+    color: rgb(145, 145, 145);
+    font-weight: 400;
+    padding: 4px;
+}
