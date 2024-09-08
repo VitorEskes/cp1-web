@@ -74,7 +74,7 @@
     position: absolute;
     bottom: 20px;
     right: 20px;
-    width: 500px; /* Ajuste o tamanho conforme necessário */
-    height: auto; /* Mantém a proporção da imagem */
-    z-index: 10; /* Garante que a imagem esteja sobre outros elementos */
+    width: 500px;
+    height: auto;
+    z-index: 10; 
 }
