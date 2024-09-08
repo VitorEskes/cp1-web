@@ -1,6 +1,6 @@
 import React from 'react';
 import '../CSS/Sobre.css';
-import sobreImage from '../assets/backgruond.jpg';  
+import sobreImage from '../assets/imgsobre.jpg';  
 
 const Sobre = () => {
     return (

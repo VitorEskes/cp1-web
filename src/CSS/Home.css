@@ -1,6 +1,6 @@
 .secao1 {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 60%, rgb(65, 65, 65) 100%), 
-                url(../assets/image-from-rawpixel-id-10198731-jpeg.jpg) no-repeat center center;
+                url(../assets/background.jpg) no-repeat center center;
     background-size: cover;
     min-height: 100vh;
     display: flex;
